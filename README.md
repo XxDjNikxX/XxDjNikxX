@@ -1,5 +1,7 @@
-## Hi there 👋
+## Oh, hi Mark! My name is Nikita.
+#### An L2 Support with some kind of DevOps functions 🤪
 
+## Technologies that i am use
 <!--
 **XxDjNikxX/XxDjNikxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
